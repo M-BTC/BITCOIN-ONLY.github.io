@@ -1,5 +1,5 @@
-This is the repository for [bitcoin-only.com](https://bitcoin-only.com). 
+Dit is de repository voor [bitcoin-only.nl](https://bitcoin-only.nl). 
 
-[Click Here](https://github.com/bitcoin-only/bitcoin-only/issues/new/choose) to raise an issue (e.g. to request content be added).
+[Klik hier](https://github.com/bitcoin-only/bitcoin-only/issues/new/choose) om een issue te openen (bijv. om inhoud toe te voegen).
 
 ![](/assets/images/share.png)
